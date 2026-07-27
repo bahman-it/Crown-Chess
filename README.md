@@ -26,23 +26,11 @@
 
 ---
 
-## 🚀 ڕێنمایی دروستکردنی فایلی APK (How to Build Release APK)
+## 🚀 دابەزاندنی فایلی APK (Download Release APK)
 
-بۆ دروستکردنی فایلی Release APK بۆ تاقیکردنەوە یان ڕەوانەکردن بۆ مۆبایل:
+بۆ دەستکەوتنی فایلی Release APK بۆ تاقیکردنەوە یان ڕەوانەکردن بۆ مۆبایل:
 
-```bash
-# ١. پاککردنەوەی پاشکۆ کۆنەکان
-flutter clean
-
-# ٢. وەرگرتنەوەی پەکێجەکان
-flutter pub get
-
-# ٣. دروستکردنی فایلی APKی نایاب و کەمکراوە
-flutter build apk --release --split-per-abi
-```
-
-فایلی APK لەم بەستەرەی خوارەوەدا ئامادە دەبێت:
-`build/app/outputs/flutter-apk/app-arm64-v8a-release.apk`
+[🔗 داگرتنی APK لە Google Drive](https://drive.google.com/drive/folders/19pQfMkn9qIG1IJrbnGpjLgtnrk4F_HQc?usp=sharing)
 
 ---
 
