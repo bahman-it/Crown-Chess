@@ -32,9 +32,19 @@
 
 [🔗 داگرتنی APK لە Google Drive](https://drive.google.com/drive/folders/19pQfMkn9qIG1IJrbnGpjLgtnrk4F_HQc?usp=sharing)
 
+
+
+---
+
+## 🚀 بۆ (ئایفۆن IOS و WEB ده‌توانن له‌و لینكه‌ی خواره‌وه‌ سوود وه‌ربگرن
+
+ده‌توانن ئه‌و لینكه‌ پینی براوسه‌ر بكه‌ن یاخود بۆ شاشه‌ی مۆبایله‌كان زیادی بكه‌ن
+
+[🔗 ئه‌و لینكه‌ بكه‌وه](https://chess.thsite.top)
+
 ---
 
 ## 🔒 مافی کۆپی و پاراستن (License & Security)
 
-© 2026 **Crown Chess Team**. سەرجەم مافەکانی کۆد و دیزاین پارێزراون (All Rights Reserved).
+© 2026 **Crown Chess**. سەرجەم مافەکانی کۆد و دیزاین پارێزراون بۆ Bahman IT (All Rights Reserved).
 ئەم پڕۆژەیە بە شێوازی **Private Repository** پارێزراوە.
