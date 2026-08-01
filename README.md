@@ -30,7 +30,7 @@
 
 بۆ دەستکەوتنی فایلی Release APK بۆ تاقیکردنەوە یان ڕەوانەکردن بۆ مۆبایل:
 
-[🔗 داگرتنی APK لە Google Drive](https://drive.google.com/drive/folders/19pQfMkn9qIG1IJrbnGpjLgtnrk4F_HQc?usp=sharing)
+[🔗 داگرتنی APK لە Google Drive](https://docs.google.com/uc?export=download&id=1NkW8tC4UPXVwCXAqoYV-tLgz_vDmudnc)
 
 
 
