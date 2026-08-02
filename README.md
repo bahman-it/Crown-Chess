@@ -30,7 +30,7 @@
 
 بۆ دەستکەوتنی فایلی Release APK بۆ تاقیکردنەوە یان ڕەوانەکردن بۆ مۆبایل:
 
-[🔗 داگرتنی APK لە Google Drive](https://bahman.thsite.top/apks)
+[🔗 داگرتنی APK لە Google Drive](https://bahman-it.thsite.top/apks/)
 
 
 
